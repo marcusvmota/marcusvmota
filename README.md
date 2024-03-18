@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👨‍💻 Sou Desenvolvedor Web front-end ...<br>📚 Publicitário ...<br>🎯 "Persista hoje, conquiste amanhã."</p>
+<p align="left">👨‍💻 Desenvolvedor Web front-end ...<br><br>🎯 "Persista hoje, conquiste amanhã."</p>
 
 ###
 
